@@ -18,7 +18,7 @@ A web-based camera application for inspecting and verifying fire suppression sys
 
 **Features:**
 - **Camera Integration**: Uses device camera (WebRTC) to capture images of fire suppression systems
-- **Multi-State Support**: Includes compliance rules for CA, NY, TX, FL, IL, PA, OH, GA, NC, and MI
+- **Multi-State Support**: Includes compliance rules for CA, NY, TX, FL, IL, PA, OH, GA, NC, MI, and OK
 - **System Type Coverage**:
   - Sprinkler Systems
   - Fire Extinguishers
